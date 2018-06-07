@@ -6,6 +6,14 @@ https://kaisery.gitbooks.io/rust-book-chinese/content/content/Guessing%20Game%20
 
 这份小demo, 很棒噢 👌
 
+---
+
+> game demo, I play so bad😢
+
+<img src="./imgs/game_demo.gif" width="49%">
+
+---
+
 ## Rust
 
 本身的学习路途, 前期是较为崎岖的, 还是一步一步, 慢慢来
