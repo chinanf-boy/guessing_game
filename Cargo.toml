@@ -1,0 +1,6 @@
+[package]
+name = "guessing_gam"
+version = "0.1.0"
+authors = ["chinanf-boy <865501259@qq.com>"]
+
+[dependencies]
